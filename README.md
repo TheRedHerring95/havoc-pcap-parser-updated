@@ -1,5 +1,5 @@
 # havoc-pcap-parser-updated
-Updated version of havoc-pcap-parser for newer versions of python (tested on python3.14
+Updated version of havoc-pcap-parser for newer versions of python (tested on python3.14)
 
 Built from Immersive Labs' havoc-pcap-parser.py as at the 27th of November 2026, found here: https://github.com/Immersive-Labs-Sec/HavocC2-Forensics/blob/main/PacketCapture/havoc-pcap-parser.py. Rewritten to use scapy instead of pyshark due to issues running pyshark on Python3.14
 
